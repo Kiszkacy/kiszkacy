@@ -45,4 +45,5 @@ If you're interested in my personal projects, feel free to check out my reposito
 
 ![Top languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=kiszkacy&layout=compact&theme=dark)
 
-![Profile visits](https://komarev.com/ghpvc/?username=kiszkacy)
+![Profile visits](https://komarev.com/ghpvc/?username=kiszkacy "Profile visits since Feb 22 2025")
+[![wakatime](https://wakatime.com/badge/user/92cf3ac1-102d-4d79-b9a8-c960cf206839.svg)](https://wakatime.com/@92cf3ac1-102d-4d79-b9a8-c960cf206839 "Total time coded since Jan 15 2025")
