@@ -22,6 +22,7 @@ I have also worked with:
 - 🔣 **Haskell**
 - 🔥 **Scala**
 - 🎮 **Lua**
+- 📊 **SQL**
 
 ### Technologies
 I feel most comfortable working with:
@@ -29,6 +30,7 @@ I feel most comfortable working with:
 - 🌍 **Node.js**
 - 🌿 **Spring**
 - 🛢️ **MongoDB**
+- 🎮 **Godot Engine**
 
 I have also worked with various other frameworks and technologies.
 
